@@ -1,14 +1,43 @@
-layout_spectrum: 0.3911017768550664
-typography_spectrum: 0.7262519081123173
+typography_spectrum: 0.4022150784924553
 color:
-  brandStrength: 0.252044586930424
-  lightness: 0.290227722376585
-  saturation: 0.7750363491941243
-  rhythmicContrast: 0.7700294009409845
+  brandStrength: 0.37671805137316555
+  lightness: 0.2078543512528707
+  saturation: 0.2007900315369157
+  rhythmicContrast: 0.6202674838587974
   brandColors:
-    - '#354242'
-    - '#ACEBAE'
-    - '#FFFF9D'
-    - '#C9DE55'
-    - '#7D9100'
-name: Floats
+    - '#000000'
+    - '#FFFFFF'
+    - '#725700'
+    - '#FC2E8D'
+    - '#E6B600'
+github: true
+layout_spectrum: 0.4008288868311055
+analytics:
+  google: UA-79126334-1
+author:
+  name: Kristoffer Rose Svarre
+  email: ksvarre@gmail.com
+  url: 'https://www.linkedin.com/in/ksvarre'
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6fae071-e533-41a5-91a3-b9eff507a720.png
+name: 'Business, Innovation & Entrepreneurship'
+navigation:
+  - name: Home
+    url: 'http://think-like.me'
+    type: external
+  - name: Technology & Science
+    url: 'http://ai.think-like.me'
+    type: external
+  - name: Motivation & Personal Development
+    url: 'http://development.think-like.me'
+    type: external
+  - name: About Me
+    url: 'https://www.linkedin.com/in/ksvarre'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae2f0b6-bf71-43da-92bf-81262b906f97.png
+title: 'Business, Innovation & Entrepreneurship'
+content: []
+description: >-
+  Here you will find a collection of articles, videos and blog posts about
+  innovation, startups and business in general.
