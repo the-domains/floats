@@ -11,6 +11,9 @@ color:
     - '#FC2E8D'
     - '#E6B600'
 github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2e26973-16a9-46ac-8537-b882592729cc.png
 layout_spectrum: 0.4008288868311055
 analytics:
   google: UA-79126334-1
