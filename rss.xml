@@ -4,9 +4,16 @@
         <description><![CDATA[Business, Innovation & Entrepreneurship]]></description>
         <link>http://business.think-like.me/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Dec 2016 13:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Dec 2016 14:11:57 GMT</lastBuildDate>
         <atom:link href="http://business.think-like.me/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 19 Dec 2016 13:46:49 GMT</pubDate>
+        <pubDate>Mon, 19 Dec 2016 14:11:53 GMT</pubDate>
+        <item>
+            <title><![CDATA[The Startup Pivot Pyramid]]></title>
+            <description><![CDATA[<article><h1>The Startup Pivot Pyramid</h1><p>Click to read full article…</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/679c1f713b496a9677e500cc44f7640916cced34.jpg"></article>]]></description>
+            <link>http://business.think-like.me/the-startup-pivot-pyramid/index.html</link>
+            <guid isPermaLink="false">b291770c-df54-458a-b816-2b08632a75e9</guid>
+            <pubDate>Mon, 19 Dec 2016 14:11:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why Storytelling Is The Ultimate Weapon]]></title>
             <description><![CDATA[<article><h1>Why Storytelling Is The Ultimate Weapon</h1><p>Click to read full article…</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/6418464d0d36b0b305bf9c4d9ec119b5/noop.jpg?input=https%3A%2F%2Fb.fastcompany.net%2Fasset_files%2F-%2F2016%2F10%2F04%2FNewHouseAd.300x180.FCNY.jpg"></article>]]></description>
@@ -69,13 +76,6 @@
             <link>http://business.think-like.me/strategic-renewal-in-the-business-model/index.html</link>
             <guid isPermaLink="false">9f4dfe90-c525-4f20-ab5c-3af6e22d59f2</guid>
             <pubDate>Mon, 19 Dec 2016 13:42:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Descriptive Predictive Prescriptive Analytics]]></title>
-            <description><![CDATA[<article><h1>Descriptive Predictive Prescriptive Analytics</h1><p>Click to read full article…</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f10310c4542cfe4306459ff927ef3289680bb1a6.jpg"></article>]]></description>
-            <link>http://business.think-like.me/descriptive-predictive-prescriptive-analytics/index.html</link>
-            <guid isPermaLink="false">1bad288f-84a4-4ad3-a10e-85eb95818fd5</guid>
-            <pubDate>Mon, 19 Dec 2016 13:40:25 GMT</pubDate>
         </item>
     </channel>
 </rss>
