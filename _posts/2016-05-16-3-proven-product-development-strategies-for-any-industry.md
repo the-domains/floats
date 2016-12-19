@@ -21,8 +21,8 @@ description: Click to read full article…
 inLanguage: en
 app_links: []
 title: 3 Proven Product Development Strategies for Any Industry
-datePublished: '2016-12-19T13:43:39.704Z'
-dateModified: '2016-12-19T13:43:39.252Z'
+datePublished: '2016-12-19T13:43:43.000Z'
+dateModified: '2016-12-19T13:43:42.510Z'
 sourcePath: _posts/2016-05-16-3-proven-product-development-strategies-for-any-industry.md
 via: {}
 inFeed: true
