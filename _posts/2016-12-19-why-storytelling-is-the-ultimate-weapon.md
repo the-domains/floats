@@ -1,7 +1,7 @@
 ---
 description: Click to read full article…
 app_links: []
-datePublished: '2016-12-19T13:46:48.216Z'
+datePublished: '2016-12-19T17:08:41.401Z'
 author: []
 inLanguage: en
 via: {}
@@ -22,13 +22,13 @@ keywords:
   - persuasive
   - tell
 title: Why Storytelling Is The Ultimate Weapon
-dateModified: '2016-12-19T13:46:47.716Z'
+dateModified: '2016-12-19T17:08:40.626Z'
 related: []
 inFeed: true
 hasPage: true
+sourcePath: _posts/2016-12-19-why-storytelling-is-the-ultimate-weapon.md
 starred: false
 datePublishedOriginal: '2016-12-19T13:46:48.216Z'
-sourcePath: _posts/2016-12-19-why-storytelling-is-the-ultimate-weapon.md
 url: why-storytelling-is-the-ultimate-weapon/index.html
 _type: MediaObject
 _context: 'http://schema.org'
