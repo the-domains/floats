@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-19T13:42:08.881Z'
+datePublished: '2016-12-19T17:08:41.421Z'
 keywords:
   - customer
   - innovation
@@ -16,7 +16,7 @@ author:
   - name: Rowan Gibson
     url: 'http://www.innovationexcellence.com/blog/author/rowangibson/'
     avatar: {}
-dateModified: '2016-12-19T13:42:08.048Z'
+dateModified: '2016-12-19T17:08:40.626Z'
 title: Strategic Renewal in the Business Model
 app_links: []
 publisher:
