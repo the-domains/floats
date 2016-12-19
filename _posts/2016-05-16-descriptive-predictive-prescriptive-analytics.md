@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-19T17:08:41.416Z'
+datePublished: '2016-12-19T17:08:53.964Z'
 keywords:
   - analytics
   - data
@@ -13,7 +13,7 @@ keywords:
   - option
 related: []
 author: []
-dateModified: '2016-12-19T17:08:40.626Z'
+dateModified: '2016-12-19T17:08:52.798Z'
 title: Descriptive Predictive Prescriptive Analytics
 app_links: []
 publisher:
