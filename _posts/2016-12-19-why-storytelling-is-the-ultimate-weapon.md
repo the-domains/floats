@@ -1,7 +1,7 @@
 ---
 description: Click to read full article…
 app_links: []
-datePublished: '2016-12-19T17:08:41.401Z'
+datePublished: '2016-12-19T17:08:53.964Z'
 author: []
 inLanguage: en
 via: {}
@@ -22,7 +22,7 @@ keywords:
   - persuasive
   - tell
 title: Why Storytelling Is The Ultimate Weapon
-dateModified: '2016-12-19T17:08:40.626Z'
+dateModified: '2016-12-19T17:08:52.798Z'
 related: []
 inFeed: true
 hasPage: true
