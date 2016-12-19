@@ -1,7 +1,7 @@
 ---
 title: How to Suck at Leadership
-datePublished: '2016-12-19T13:43:57.179Z'
-dateModified: '2016-12-19T13:43:56.684Z'
+datePublished: '2016-12-19T17:08:41.416Z'
+dateModified: '2016-12-19T17:08:40.626Z'
 author:
   - name: Holly G Green
     url: 'http://www.innovationexcellence.com/blog/author/holly-g-green/'
