@@ -22,8 +22,8 @@ description: Click to read full article…
 inLanguage: en
 app_links: []
 title: The Startup Pivot Pyramid
-datePublished: '2016-12-19T17:08:41.401Z'
-dateModified: '2016-12-19T17:08:40.626Z'
+datePublished: '2016-12-19T17:08:53.962Z'
+dateModified: '2016-12-19T17:08:52.798Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-15-the-startup-pivot-pyramid.md
