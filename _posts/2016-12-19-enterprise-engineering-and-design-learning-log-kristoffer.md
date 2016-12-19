@@ -11,13 +11,13 @@ description: ''
 app_links: []
 isBasedOnUrl: 'https://drive.google.com/open?id=0ByZ5wTGQOCAfQUg3dXVWSGtZOWM'
 title: Enterprise Engineering and Design Learning Log - Kristoffer Svarre.pdf
-datePublished: '2016-12-19T17:05:43.052Z'
-dateModified: '2016-12-19T17:05:38.064Z'
-datePublishedOriginal: '2016-12-19T17:05:43.052Z'
+datePublished: '2016-12-19T17:08:41.425Z'
+dateModified: '2016-12-19T17:08:40.626Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-12-19-enterprise-engineering-and-design-learning-log-kristoffer.md
+starred: false
+datePublishedOriginal: '2016-12-19T17:05:43.052Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
