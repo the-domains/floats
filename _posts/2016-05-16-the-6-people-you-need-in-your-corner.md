@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-19T17:08:41.400Z'
+datePublished: '2016-12-19T17:08:53.947Z'
 keywords: []
 related: []
 author:
   - name: Jessica Hagy
     url: 'http://www.forbes.com/sites/jessicahagy/#511a0ac95345'
     avatar: {}
-dateModified: '2016-12-19T17:08:40.626Z'
+dateModified: '2016-12-19T17:08:52.798Z'
 title: The 6 People You Need in Your Corner
 app_links: []
 publisher:
