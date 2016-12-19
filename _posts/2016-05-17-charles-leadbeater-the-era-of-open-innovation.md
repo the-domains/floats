@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-19T17:08:41.405Z'
+datePublished: '2016-12-19T17:08:53.947Z'
 keywords:
   - leadbeater
   - javascript
@@ -76,7 +76,7 @@ author:
   - name: ''
     url: null
     avatar: {}
-dateModified: '2016-12-19T17:08:40.626Z'
+dateModified: '2016-12-19T17:08:52.798Z'
 title: 'Charles Leadbeater: The era of open innovation'
 app_links:
   - url: 'ted://x-callback-url/talk?talkID=63&source=facebook'
