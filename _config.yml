@@ -1,15 +1,4 @@
-name: 'Business, Innovation & Entrepreneurship'
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae2f0b6-bf71-43da-92bf-81262b906f97.png
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6fae071-e533-41a5-91a3-b9eff507a720.png
-layout_spectrum: 0.4008288868311055
 typography_spectrum: 0.4022150784924553
-analytics:
-  google: UA-79126334-1
-opengraph:
-  image: >-
-    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2e26973-16a9-46ac-8537-b882592729cc.png
 color:
   brandColors:
     - '#000000'
@@ -21,14 +10,20 @@ color:
   lightness: 0.2078543512528707
   saturation: 0.2007900315369157
   rhythmicContrast: 0.6202674838587974
-title: 'Business, Innovation & Entrepreneurship'
-description: >-
-  Here you will find a collection of articles, videos and blog posts about
-  innovation, startups and business in general.
+github: true
+opengraph:
+  image: >-
+    https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2e26973-16a9-46ac-8537-b882592729cc.png
+layout_spectrum: 0.4008288868311055
+analytics:
+  google: UA-79126334-1
 author:
   name: Kristoffer Rose Svarre
   url: 'https://www.linkedin.com/in/ksvarre'
   email: ksvarre@gmail.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6fae071-e533-41a5-91a3-b9eff507a720.png
+name: 'Business, Innovation & Entrepreneurship'
 navigation:
   - name: Home
     url: 'http://think-like.me'
@@ -45,5 +40,13 @@ navigation:
   - name: About Me
     url: 'https://www.linkedin.com/in/ksvarre'
     type: external
+  - name: Crypto Economics & Blockchain Technology
+    url: 'https://crypto.think-like.me'
+    type: external
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae2f0b6-bf71-43da-92bf-81262b906f97.png
+title: 'Business, Innovation & Entrepreneurship'
 content: []
-github: true
+description: >-
+  Here you will find a collection of articles, videos and blog posts about
+  innovation, startups and business in general.
