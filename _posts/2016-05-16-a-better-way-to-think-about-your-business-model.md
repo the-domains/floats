@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-19T17:08:53.961Z'
+datePublished: '2017-09-12T16:12:50.967Z'
 sourcePath: _posts/2016-05-16-a-better-way-to-think-about-your-business-model.md
 keywords:
   - business
@@ -14,7 +14,7 @@ keywords:
   - company
 related: []
 author: []
-dateModified: '2016-12-19T17:08:52.798Z'
+dateModified: '2017-09-12T16:12:49.415Z'
 title: A Better Way to Think About Your Business Model
 app_links: []
 publisher:
