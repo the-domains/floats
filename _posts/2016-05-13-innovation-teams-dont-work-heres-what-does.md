@@ -40,8 +40,8 @@ description: Click to read full article…
 inLanguage: en
 app_links: []
 title: Innovation teams don't work. Here's what does
-datePublished: '2016-12-19T17:08:41.401Z'
-dateModified: '2016-12-19T17:08:40.626Z'
+datePublished: '2017-09-12T16:12:50.964Z'
+dateModified: '2017-09-12T16:12:49.415Z'
 sourcePath: _posts/2016-05-13-innovation-teams-dont-work-heres-what-does.md
 via: {}
 inFeed: true
