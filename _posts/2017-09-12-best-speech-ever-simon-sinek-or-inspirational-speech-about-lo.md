@@ -62,14 +62,14 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://youtu.be/_ztgMxdXafI'
 title: BEST SPEECH EVER Simon Sinek | INSPIRATIONAL SPEECH ABOUT LOVE - So Inspiring!
-datePublished: '2017-09-12T16:09:08.149Z'
-dateModified: '2017-09-12T16:07:26.948Z'
-datePublishedOriginal: '2017-09-12T16:09:08.149Z'
+datePublished: '2017-09-12T16:12:50.965Z'
+dateModified: '2017-09-12T16:12:49.415Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: >-
   _posts/2017-09-12-best-speech-ever-simon-sinek-or-inspirational-speech-about-lo.md
+starred: false
+datePublishedOriginal: '2017-09-12T16:09:08.149Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
