@@ -24,8 +24,8 @@ description: Click to read full article…
 inLanguage: en
 app_links: []
 title: What CEOs Can Learn From Scientists
-datePublished: '2016-12-19T17:08:53.955Z'
-dateModified: '2016-12-19T17:08:52.798Z'
+datePublished: '2017-09-12T16:12:50.980Z'
+dateModified: '2017-09-12T16:12:49.415Z'
 sourcePath: _posts/2016-05-16-what-ceos-can-learn-from-scientists.md
 via: {}
 inFeed: true
