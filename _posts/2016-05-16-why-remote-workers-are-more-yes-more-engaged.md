@@ -22,8 +22,8 @@ description: Click to read full article…
 inLanguage: en
 app_links: []
 title: 'Why Remote Workers Are More (Yes, More) Engaged'
-datePublished: '2016-12-19T17:08:53.961Z'
-dateModified: '2016-12-19T17:08:52.798Z'
+datePublished: '2017-09-12T16:12:50.975Z'
+dateModified: '2017-09-12T16:12:49.415Z'
 sourcePath: _posts/2016-05-16-why-remote-workers-are-more-yes-more-engaged.md
 via: {}
 inFeed: true
