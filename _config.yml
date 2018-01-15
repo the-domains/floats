@@ -37,7 +37,7 @@ navigation:
     url: 'https://ai.think-like.me'
     type: external
   - name: Motivation & Personal Development
-    url: 'http://development.think-like.me'
+    url: 'https://development.think-like.me'
     type: external
   - name: Crypto Economics & Blockchain Technology
     url: 'http://crypto.think-like.me'
