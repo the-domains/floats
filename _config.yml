@@ -1,4 +1,4 @@
-name: 'Business, Innovation & Entrepreneurship'
+name: 'Think-Like.me | Business, Innovation & Entrepreneurship'
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/cae2f0b6-bf71-43da-92bf-81262b906f97.png
 logo: >-
@@ -50,3 +50,4 @@ navigation:
     type: external
 content: []
 github: true
+url: 'https://business.think-like.me/'
